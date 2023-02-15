@@ -1,0 +1,14 @@
+node_modules
+package.json
+img
+artifacts
+cache
+coverage
+.env
+.*
+README.md
+typechain
+typechain-types
+gas-report.txt
+coverage.json
+coverage
